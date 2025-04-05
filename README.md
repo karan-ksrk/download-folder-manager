@@ -1,4 +1,4 @@
-# Download Manager
+# Download Folder Manager
 
 This project is a Python-based Download Organizer that automatically monitors a specified folder (e.g., the Downloads folder) and organizes newly added files into categorized subfolders based on their file types. It uses the `watchdog` library to monitor file system events and the `pystray` library to provide a system tray icon for easy control.
 
